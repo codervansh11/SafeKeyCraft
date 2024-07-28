@@ -43,7 +43,6 @@ body {
 h1 {
     color: var(--pl-white);
     opacity: 0.75;
-    text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
     line-height: 1.2;
